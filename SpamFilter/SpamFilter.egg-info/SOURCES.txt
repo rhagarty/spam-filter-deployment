@@ -1,0 +1,8 @@
+setup.py
+SpamFilter/DataPipeline.py
+SpamFilter/LRModel.py
+SpamFilter/__init__.py
+SpamFilter.egg-info/PKG-INFO
+SpamFilter.egg-info/SOURCES.txt
+SpamFilter.egg-info/dependency_links.txt
+SpamFilter.egg-info/top_level.txt
